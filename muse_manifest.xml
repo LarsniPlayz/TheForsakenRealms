@@ -1,0 +1,40 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://larsniplayz.github.io/TheForsakenRealms" resolutions="1x" timestamp="1489519285629">
+  <folder name="css">
+    <file name="site_global.css" crc="3823340245"/>
+    <file name="master_a-master.css" crc="12832418" ref="index:the-forsaken-realms---donate:the-forsaken-realms---about:the-forsaken-realms---testing:the-forsaken-realms---play:the-forsaken-realms---contact:the-forsaken-realms---news"/>
+    <file name="index.css" crc="3925166586" ref="index"/>
+    <file name="the-forsaken-realms---donate.css" crc="471989942" ref="the-forsaken-realms---donate"/>
+    <file name="the-forsaken-realms---about.css" crc="3925166586" ref="the-forsaken-realms---about"/>
+    <file name="the-forsaken-realms---testing.css" crc="533071819" ref="the-forsaken-realms---testing"/>
+    <file name="the-forsaken-realms---play.css" crc="4131734478" ref="the-forsaken-realms---play"/>
+    <file name="the-forsaken-realms---contact.css" crc="75882777" ref="the-forsaken-realms---contact"/>
+    <file name="the-forsaken-realms---news.css" crc="4000672318" ref="the-forsaken-realms---news"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:the-forsaken-realms---news:the-forsaken-realms---about:the-forsaken-realms---play:the-forsaken-realms---contact:the-forsaken-realms---donate:the-forsaken-realms---testing"/>
+    <file name="museutils.js" crc="3790713428" ref="index:the-forsaken-realms---news:the-forsaken-realms---about:the-forsaken-realms---play:the-forsaken-realms---contact:the-forsaken-realms---donate:the-forsaken-realms---testing"/>
+    <file name="whatinput.js" crc="84559013" ref="index:the-forsaken-realms---news:the-forsaken-realms---about:the-forsaken-realms---play:the-forsaken-realms---contact:the-forsaken-realms---donate:the-forsaken-realms---testing"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:the-forsaken-realms---news:the-forsaken-realms---about:the-forsaken-realms---play:the-forsaken-realms---contact:the-forsaken-realms---donate:the-forsaken-realms---testing"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:the-forsaken-realms---news:the-forsaken-realms---about:the-forsaken-realms---play:the-forsaken-realms---contact:the-forsaken-realms---donate:the-forsaken-realms---testing"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:the-forsaken-realms---news:the-forsaken-realms---about:the-forsaken-realms---play:the-forsaken-realms---contact:the-forsaken-realms---donate:the-forsaken-realms---testing"/>
+  </folder>
+  <folder name="images">
+    <file name="twitter.png" crc="4102706121" ref="index"/>
+    <file name="youtubeicon.png" crc="4181977982" ref="index"/>
+    <file name="facebook.png" crc="317936629" ref="index"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="index:the-forsaken-realms---news:the-forsaken-realms---about:the-forsaken-realms---play:the-forsaken-realms---contact:the-forsaken-realms---donate:the-forsaken-realms---testing"/>
+    <file name="fc0b01fe10a0b8c602fb0106d8189d9b.png" crc="4290243122" seo="true" ref="the-forsaken-realms---contact"/>
+    <file name="website-donation-button.gif" crc="3950821865" seo="true" ref="the-forsaken-realms---donate"/>
+    <file name="-4efb838763df89eef97c4938636642f2dffd875254f384c92b-pimgpsh_fullsize_distr.jpg" crc="3818529784" seo="true" ref="index:the-forsaken-realms---news:the-forsaken-realms---about:the-forsaken-realms---play:the-forsaken-realms---contact:the-forsaken-realms---donate:the-forsaken-realms---testing"/>
+    <file name="1.jpg" crc="519692705" seo="true" ref="index:the-forsaken-realms---news:the-forsaken-realms---about:the-forsaken-realms---play:the-forsaken-realms---contact:the-forsaken-realms---donate:the-forsaken-realms---testing"/>
+    <file name="2.jpg" crc="3912195914" seo="true" ref="the-forsaken-realms---news"/>
+  </folder>
+  <file name="index.html" crc="3898986442" seo="true" mt="1489445354118" redirect="true"/>
+  <file name="the-forsaken-realms---news.html" crc="72198895" seo="true" mt="1489518932944" redirect="true"/>
+  <file name="the-forsaken-realms---about.html" crc="140760046" seo="true" mt="1489433522404" redirect="true"/>
+  <file name="the-forsaken-realms---play.html" crc="9872381" seo="true" mt="1489433522404" redirect="true"/>
+  <file name="the-forsaken-realms---contact.html" crc="3957018619" seo="true" mt="1489433522404" redirect="true"/>
+  <file name="the-forsaken-realms---donate.html" crc="400403929" seo="true" mt="1489433522404" redirect="true"/>
+  <file name="the-forsaken-realms---testing.html" crc="4117892432" seo="true" mt="1489433522404" redirect="true"/>
+</manifest>
