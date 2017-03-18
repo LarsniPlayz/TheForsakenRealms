@@ -1,7 +1,7 @@
 .version.the_forsaken_realms___testing /* version checker */
 {
-	color: #00001F;
-	background-color: #C607CB;
+	color: #0000EF;
+	background-color: #11088C;
 }
 
 #page
@@ -446,12 +446,26 @@
 	min-height: 27px;
 	background-color: transparent;
 	font-size: 20px;
-	color: #FF0000;
 	line-height: 24px;
+	color: #FF0000;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 958px;
 	left: 322px;
+}
+
+#u3230
+{
+	z-index: 71;
+	width: 970px;
+	min-height: 115px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 171px;
+	left: 25px;
 }
 
 #muse_css_mq,.html
