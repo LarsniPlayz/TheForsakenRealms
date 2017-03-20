@@ -1,7 +1,7 @@
 .version.the_forsaken_realms___play /* version checker */
 {
-	color: #0000FD;
-	background-color: #B992DB;
+	color: #0000E2;
+	background-color: #CE2029;
 }
 
 #page
@@ -449,20 +449,6 @@
 	left: 331px;
 }
 
-#u3225
-{
-	z-index: 71;
-	width: 970px;
-	min-height: 201px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 180px;
-	left: 246px;
-}
-
 #u2573-4
 {
 	z-index: 67;
@@ -470,8 +456,8 @@
 	min-height: 27px;
 	background-color: transparent;
 	font-size: 20px;
-	line-height: 24px;
 	color: #FF0000;
+	line-height: 24px;
 	margin-left: 322px;
 	margin-top: 27px;
 	position: relative;
