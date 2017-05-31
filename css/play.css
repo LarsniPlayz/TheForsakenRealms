@@ -1,14 +1,14 @@
-.version.index /* version checker */
+.version.play /* version checker */
 {
 	color: #000016;
-	background-color: #0055C0;
+	background-color: #321202;
 }
 
 #page
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 1208px;
+	min-height: 1207px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -19,7 +19,6 @@
 
 #page_position_content
 {
-	padding-bottom: 1px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -39,6 +38,20 @@
 	margin-right: -10000px;
 	margin-top: 37px;
 	left: 143px;
+}
+
+#u3898
+{
+	z-index: 64;
+	width: 70px;
+	min-height: 44px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 726px;
 }
 
 #u1472
@@ -409,7 +422,7 @@
 #u3696
 {
 	z-index: 3;
-	min-height: 1035.8248132165395px;
+	min-height: 1035.6748132165399px;
 	padding-bottom: 0px;
 }
 
@@ -420,19 +433,33 @@
 	position: relative;
 	width: 1020px;
 	left: -100px;
-	padding-top: 213px;
+	padding-top: 122px;
 	padding-bottom: 11px;
 }
 
-#u3263
+#u3893
 {
-	z-index: 64;
-	width: 600px;
-	min-height: 454px;
+	z-index: 69;
+	width: 800px;
+	min-height: 604px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	left: 310px;
+	left: 210px;
+	position: relative;
+}
+
+#u2573-4
+{
+	z-index: 65;
+	width: 376px;
+	min-height: 27px;
+	background-color: transparent;
+	font-size: 20px;
+	line-height: 24px;
+	color: #FF0000;
+	left: 422px;
+	margin-top: 29px;
 	position: relative;
 }
 
@@ -442,7 +469,7 @@
 	width: 980px;
 	min-height: 18px;
 	left: 120px;
-	margin-top: 330px;
+	margin-top: 215px;
 	position: relative;
 }
 
@@ -455,7 +482,7 @@
 #u3696-bw
 {
 	z-index: 3;
-	min-height: 1035.8248132165395px;
+	min-height: 1035.6748132165399px;
 }
 
 #muse_css_mq,.html

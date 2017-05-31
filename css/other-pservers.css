@@ -1,14 +1,14 @@
-.version.index /* version checker */
+.version.other_pservers /* version checker */
 {
-	color: #000016;
-	background-color: #0055C0;
+	color: #000008;
+	background-color: #DC87E2;
 }
 
 #page
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 1208px;
+	min-height: 1221px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -19,7 +19,7 @@
 
 #page_position_content
 {
-	padding-bottom: 1px;
+	padding-bottom: 14px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -406,13 +406,6 @@
 	min-height: 42px;
 }
 
-#u3696
-{
-	z-index: 3;
-	min-height: 1035.8248132165395px;
-	padding-bottom: 0px;
-}
-
 #u3696_align_to_page
 {
 	margin-left: auto;
@@ -420,19 +413,21 @@
 	position: relative;
 	width: 1020px;
 	left: -100px;
-	padding-top: 213px;
+	padding-top: 48px;
 	padding-bottom: 11px;
 }
 
-#u3263
+#u2865-4
 {
 	z-index: 64;
-	width: 600px;
-	min-height: 454px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	left: 310px;
+	width: 434px;
+	min-height: 27px;
+	background-color: #000000;
+	color: #FF0000;
+	font-size: 20px;
+	text-align: center;
+	line-height: 24px;
+	left: 393px;
 	position: relative;
 }
 
@@ -442,7 +437,7 @@
 	width: 980px;
 	min-height: 18px;
 	left: 120px;
-	margin-top: 330px;
+	margin-top: 922px;
 	position: relative;
 }
 
@@ -452,10 +447,10 @@
 	width: 11px;
 }
 
-#u3696-bw
+#u3696,#u3696-bw
 {
 	z-index: 3;
-	min-height: 1035.8248132165395px;
+	min-height: 1036px;
 }
 
 #muse_css_mq,.html

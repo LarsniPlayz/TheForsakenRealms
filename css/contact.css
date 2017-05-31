@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.contact /* version checker */
 {
-	color: #000016;
-	background-color: #0055C0;
+	color: #00001E;
+	background-color: #4752AC;
 }
 
 #page
@@ -406,13 +406,6 @@
 	min-height: 42px;
 }
 
-#u3696
-{
-	z-index: 3;
-	min-height: 1035.8248132165395px;
-	padding-bottom: 0px;
-}
-
 #u3696_align_to_page
 {
 	margin-left: auto;
@@ -420,20 +413,95 @@
 	position: relative;
 	width: 1020px;
 	left: -100px;
-	padding-top: 213px;
+	padding-top: 223px;
 	padding-bottom: 11px;
 }
 
-#u3263
+#pu2542-21
+{
+	width: 0.01px;
+	left: 154px;
+	position: relative;
+}
+
+#u2542-21
 {
 	z-index: 64;
-	width: 600px;
-	min-height: 454px;
-	border-width: 0px;
-	border-color: transparent;
+	width: 364px;
+	min-height: 398px;
 	background-color: transparent;
-	left: 310px;
+	color: #FF0000;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u2542-6
+{
+	text-decoration: underline;
+}
+
+#u2542-7,#u2542-8
+{
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
+	font-weight: bold;
+}
+
+#u2542-10,#u2542-11,#u2542-13,#u2542-14,#u2542-16,#u2542-17,#u2542-19
+{
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+}
+
+#u2545-15
+{
+	z-index: 85;
+	width: 337px;
+	min-height: 398px;
+	background-color: transparent;
+	color: #FF0000;
+	position: relative;
+	margin-right: -10000px;
+	left: 577px;
+}
+
+#u2542-2,#u2542-3,#u2545-2
+{
+	font-size: 30px;
+	text-align: center;
+	line-height: 36px;
+}
+
+#u2545-3,#u2545-4
+{
+	font-size: 30px;
+	text-align: left;
+	line-height: 36px;
+}
+
+#u2545-7
+{
+	text-align: left;
+}
+
+#u2542-5,#u2545-6,#u2545-8,#u2545-9,#u2545-11,#u2545-13
+{
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
+}
+
+#u2548
+{
+	z-index: 100;
+	width: 209px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 262px;
+	left: 641px;
 }
 
 #u1424-6
@@ -442,7 +510,7 @@
 	width: 980px;
 	min-height: 18px;
 	left: 120px;
-	margin-top: 330px;
+	margin-top: 376px;
 	position: relative;
 }
 
@@ -452,10 +520,10 @@
 	width: 11px;
 }
 
-#u3696-bw
+#u3696,#u3696-bw
 {
 	z-index: 3;
-	min-height: 1035.8248132165395px;
+	min-height: 1036px;
 }
 
 #muse_css_mq,.html
